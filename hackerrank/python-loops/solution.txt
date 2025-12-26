@@ -1,0 +1,7 @@
+if __name__ == '__main__':
+    n = int(input())
+    # need to declare i and then create loop with words and put i square to it 
+    for i in range(0,n or 1<=n<=20):
+        print(i*i)
+ 
+        
